@@ -15,7 +15,7 @@ func main() {
   fmt.Println("==============")
   fmt.Println("Scraping example.com now...")
 
-  url := "http://example.com"
+  url := "https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl"
 
   response, err := http.Get(url)
   if err != nil {
