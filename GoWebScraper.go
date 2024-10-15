@@ -12,6 +12,8 @@ import (
 
 func main() {
   fmt.Println("Go Web Scraper")
+  fmt.Println("==============")
+  fmt.Println("Scraping example.com now...")
 
   url := "http://example.com"
 
