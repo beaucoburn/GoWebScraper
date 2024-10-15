@@ -31,5 +31,26 @@ func main() {
     log.Fatal("Error loading HTTP response body:", err)
   }
 
+  // Create a file to save the scraped data
+  file, err := os.Create("scraped_data.txt")
+  if err != nil {
+    log.Fatal("Error creating file:", err)
+  }
+  defer file.Close()
 
+  // Find and print all links on the page
+  document.Find("a").Each(func(index int, element *goquery.Selection) {
+    href, exists := element.Attr("href")
+    if exists {
+      fmt.Fprintf(file, "Link: %d: %\n", index, href)
+    }
+  })
+
+  // Find and print all paragraph texts
+  document.Find("p").Each(func(index int, element *goquery.Selection) {
+    text := strings.TrimSpace(element.Text())
+    fmt.Fprintf(file, "Paragraph %d: %s\n", index, text)
+  })
+
+  fmt.Println("Scraping completed. Data saved to scraped_data.txt")
 }
