@@ -48,7 +48,7 @@ func main() {
     }
     end := strings.Index(link, "\"")
     if end != -1 {
-      fmt.Fprintf(file, "Link %d: %s\n", i, Link[:end])
+      fmt.Fprintf(file, "Link %d: %s\n", i, link[:end])
     }
   }
 
