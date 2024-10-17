@@ -1,0 +1,268 @@
+Link 1: #main-content
+Link 2: /
+Link 3: /enter
+Link 4: /enter?state=new-user
+Link 5: #
+Link 6: /report-abuse
+Link 7: /beaucoburn
+Link 8: /beaucoburn
+Link 9: /404.html
+Link 10: https://dev.to/brense
+Link 11: https://dev.to/brense
+Link 12: /brense
+Link 13: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j71
+Link 14: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j71
+Link 15: https://dev.to/beaucoburn
+Link 16: https://dev.to/beaucoburn
+Link 17: /beaucoburn
+Link 18: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j74
+Link 19: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j74
+Link 20: https://dev.to/brense
+Link 21: https://dev.to/brense
+Link 22: /brense
+Link 23: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j75
+Link 24: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j75
+Link 25: https://dev.to/vygandas
+Link 26: https://dev.to/vygandas
+Link 27: /vygandas
+Link 28: mailto:vygandas@cortip.com
+Link 29: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-2cdon
+Link 30: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-2cdon
+Link 31: https://dev.to/moopet
+Link 32: https://dev.to/moopet
+Link 33: /moopet
+Link 34: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j8p
+Link 35: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j8p
+Link 36: https://dev.to/jamesthomson
+Link 37: https://dev.to/jamesthomson
+Link 38: /jamesthomson
+Link 39: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jkh
+Link 40: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jkh
+Link 41: https://tailwindcss.com/docs/customizing-spacing
+Link 42: https://dev.to/moopet
+Link 43: https://dev.to/moopet
+Link 44: /moopet
+Link 45: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25joo
+Link 46: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25joo
+Link 47: https://dev.to/tinkerbaj
+Link 48: https://dev.to/tinkerbaj
+Link 49: /tinkerbaj
+Link 50: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j99
+Link 51: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j99
+Link 52: https://dev.to/charae_keow
+Link 53: https://dev.to/charae_keow
+Link 54: /charae_keow
+Link 55: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j73
+Link 56: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j73
+Link 57: https://tailwindcss.com/docs/functions-and-directives#apply
+Link 58: https://dev.to/beaucoburn
+Link 59: https://dev.to/beaucoburn
+Link 60: /beaucoburn
+Link 61: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j7j
+Link 62: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j7j
+Link 63: https://dev.to/stephanie
+Link 64: https://dev.to/stephanie
+Link 65: /stephanie
+Link 66: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25mb1
+Link 67: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25mb1
+Link 68: https://dev.to/michaelord
+Link 69: https://dev.to/michaelord
+Link 70: /michaelord
+Link 71: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jhg
+Link 72: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jhg
+Link 73: https://dev.to/brense
+Link 74: https://dev.to/brense
+Link 75: /brense
+Link 76: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jce
+Link 77: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jce
+Link 78: https://dev.to/tinkerbaj
+Link 79: https://dev.to/tinkerbaj
+Link 80: /tinkerbaj
+Link 81: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j9a
+Link 82: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j9a
+Link 83: https://dev.to/beaucoburn
+Link 84: https://dev.to/beaucoburn
+Link 85: /beaucoburn
+Link 86: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j9g
+Link 87: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j9g
+Link 88: https://dev.to/michaelord
+Link 89: https://dev.to/michaelord
+Link 90: /michaelord
+Link 91: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jhh
+Link 92: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jhh
+Link 93: https://dev.to/michaelord
+Link 94: https://dev.to/michaelord
+Link 95: /michaelord
+Link 96: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jbk
+Link 97: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jbk
+Link 98: https://dev.to/awhillas
+Link 99: https://dev.to/awhillas
+Link 100: /awhillas
+Link 101: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-2epn4
+Link 102: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-2epn4
+Link 103: https://dev.to/tinkerbaj
+Link 104: https://dev.to/tinkerbaj
+Link 105: /tinkerbaj
+Link 106: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25iob
+Link 107: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25iob
+Link 108: https://dev.to/tinkerbaj
+Link 109: https://dev.to/tinkerbaj
+Link 110: /tinkerbaj
+Link 111: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ioe
+Link 112: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ioe
+Link 113: https://dev.to/tinkerbaj
+Link 114: https://dev.to/tinkerbaj
+Link 115: /tinkerbaj
+Link 116: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ioc
+Link 117: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ioc
+Link 118: https://dev.to/jamesvanderpump
+Link 119: https://dev.to/jamesvanderpump
+Link 120: /jamesvanderpump
+Link 121: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jf9
+Link 122: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jf9
+Link 123: https://dev.to/jackmellis
+Link 124: https://dev.to/jackmellis
+Link 125: /jackmellis
+Link 126: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jhk
+Link 127: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jhk
+Link 128: https://dev.to/tinkerbaj
+Link 129: https://dev.to/tinkerbaj
+Link 130: /tinkerbaj
+Link 131: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ji0
+Link 132: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ji0
+Link 133: https://dev.to/jamesthomson
+Link 134: https://dev.to/jamesthomson
+Link 135: /jamesthomson
+Link 136: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jkk
+Link 137: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jkk
+Link 138: https://dev.to/tinkerbaj
+Link 139: https://dev.to/tinkerbaj
+Link 140: /tinkerbaj
+Link 141: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jkl
+Link 142: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25jkl
+Link 143: https://dev.to/lamka02sk
+Link 144: https://dev.to/lamka02sk
+Link 145: /lamka02sk
+Link 146: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25kg0
+Link 147: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25kg0
+Link 148: https://dev.to/syeo66
+Link 149: https://dev.to/syeo66
+Link 150: /syeo66
+Link 151: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j8h
+Link 152: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j8h
+Link 153: https://dev.to/tinkerbaj
+Link 154: https://dev.to/tinkerbaj
+Link 155: /tinkerbaj
+Link 156: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j9b
+Link 157: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25j9b
+Link 158: https://dev.to/gilfewster
+Link 159: https://dev.to/gilfewster
+Link 160: /gilfewster
+Link 161: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ipm
+Link 162: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-25ipm
+Link 163: https://vanilla-extract.style/
+Link 164: https://dev.to/awhillas
+Link 165: https://dev.to/awhillas
+Link 166: /awhillas
+Link 167: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-2epn5
+Link 168: https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl#comment-2epn5
+Link 169: /code-of-conduct
+Link 170: /report-abuse
+Link 171: /aadixc0de/understanding-the-event-loop-in-javascript-made-simple-2ba8
+Link 172: /logrocket/using-the-built-in-sqlite-module-in-nodejs-2e1j
+Link 173: /hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50
+Link 174: /chintanonweb/smart-dropdowns-in-react-using-usereducer-and-useref-for-outside-click-handling-138h
+Link 175: /beaucoburn
+Link 176: /beaucoburn
+Link 177: https://neon.tech/
+Link 178: /
+Link 179: /++
+Link 180: /pod
+Link 181: /videos
+Link 182: /tags
+Link 183: /help
+Link 184: https://shop.forem.com/
+Link 185: /advertise
+Link 186: /challenges
+Link 187: /showcase
+Link 188: /about
+Link 189: /contact
+Link 190: /free-postgres-database-tier
+Link 191: /guides
+Link 192: /software-comparisons
+Link 193: /code-of-conduct
+Link 194: /privacy
+Link 195: /terms
+Link 196: /enter
+Link 197: /enter?state=new-user
+Paragraph 1: So lately, I've started to break some habits.  I am not great at managing CSS but I've really pushed myself to keep myself organized.  I've tried to use inline styles only sparingly and I've really seen the benefit of using a separate stylesheet and working with classes to give style individual elements.  This for the most part has worked pretty well and I like it.  One of the main things that I like about this method is that it pushes me to be more organized.  Everything has its place and everything looks cleaner and more organized.
+Paragraph 2: Now more recently, I started to look into Tailwind CSS because of course it's the newer trendier thing that seems like everyone is using.  I've used a bit of the other CSS libraries out there, of course especially Bootstrap, but I wanted something that can of course make things easier but also give me some flexibility.  I don't know about you but I'm kind of tired of everything looking like Bootstrap.
+Paragraph 3: Lately, as I dive into Tailwind, there are of course many things to like about it.  While I like the idea of keeping everything very clean, I do like the idea that I don't need to leave the HTML or JSX to see changes.  Also, it seems as though I can make changes to style much quicker than with the old way of doing things.  There is much less typing than there is in Vanilla CSS to accomplish some of the same things.  Also, there are so many more options than there is with Bootstrap and even if I don't like the built in options, which there are very many, I can very easily adjust the style to how I like it.
+Paragraph 4: All of this being said, I'm not exactly sure if I'm sold on Tailwind, and this is for one reason.  Tailwind definitely makes the HTML or JSX a bit more difficult to read because now there are many more classes that are written into the elements.  It doesn't look as clean nor as organized as it was before and there is a part of that that bothers me.  I'm not sure if I just need to get over that or move on and find a different alternative.
+Paragraph 5: Let me give an example, let's say that I want to adjust the margin and the padding of a div.  With Vanilla CSS I would create a class in a separate CSS file, and inside of this class I would put all of my adjustments. Then I add the class to that div element which applies that style.<br>
+Paragraph 6: In Tailwind the same can be achieved by putting everything into the div element.<br>
+Paragraph 7: When I insert mx-3, this adjusts the margin of the element on the x axis by 12 pixels, and py-3 adjusts the padding on the y axis by 12 pixels.  This is much less code than the Vanilla CSS.  Also, if you want to have a separate CSS file you can but it's not necessary.  It's also very fast to change styling on the fly.
+Paragraph 8: I know that many people will tell me about Sass or many different libraries, and I think that's all great but right now for me, I think I'm going to try Tailwind for a while.
+Paragraph 9: Templates let you quickly answer FAQs or store snippets for re-use.
+Paragraph 10: Your css example is a bit verbose tbh... It can be a bit shorter:
+Paragraph 11: And you can use css vars and/or SASS + mixins to achieve a lot of what Tailwind does.
+Paragraph 12: That's very true but even with your example, it is still way more verbose than Tailwind.
+Paragraph 13: It seems like that at first, but when you look at some bigger projects done with tailwind and the endless strings of css classes, it quickly becomes better to use css with mixins, or even your own class names... You can combine that with tailwind btw, but whats the point of tailwind then?
+Paragraph 14: Yes, I second that. It becomes terrible to read those super long class lines. A bit of nonsense, I'd say. Much cleaner and easier to maintain is to have some mixins for media, shadows, and radius and just have one CSS file per component. Much neater approach. Less CSS generated, too 🚀.
+Paragraph 15: It was fun and fast to make v1 of the website, but to maintain and adjust things on Tailwind - good luck finding that 2 symbol string class in your 2 line class list 🤣
+Paragraph 16: When you decide to change your site so that everything has slightly larger margins, you have the exciting prospect of changing every single one of your HTML files and templates. Long strings of utility classes aren't very manageable.
+Paragraph 17: If you use something a little more semantic, with variables for things like gutter-widths, etc., then you're not painting yourself into that particular corner. Utility class things like Tailwind work if you use them in a separate stylesheet, but if you do that then they offer no benefit over a preprocessor like Sass.
+Paragraph 18: When you decide to change your site so that everything has slightly larger margins, you have the exciting prospect of changing every single one of your HTML files and templates. Long strings of utility classes aren't very manageable.
+Paragraph 19: Or you could just change a few <a href="https://tailwindcss.com/docs/customizing-spacing" rel="nofollow">spacing config parameters</a> because Tailwind was designed with flexibility and configuration in mind.
+Paragraph 20: Utility class things like Tailwind work if you use them in a separate stylesheet
+Paragraph 21: This is exactly what Tailwind discourages.
+Paragraph 22: This is exactly what Tailwind discourages.
+Paragraph 23: Yes, which is why it's such a poor proposition.
+Paragraph 24: You can configure <em>anything</em>, but as long as you're using classes like <code>object-left-bottom</code>, <code>float-right</code>, <code>font-extralight</code>, etc., you're going to have a bad time. These things only work if you abstract them (which you <em>can</em> do, but then what's the point of all the Tailwind stuff) or you end up defining classes like<br>
+Paragraph 25: when your client says they want the sidebar on the other side or whatever.
+Paragraph 26: Even dont need to mention if you need anything more complex your tailwind code become like **** [&amp; &gt; * mx-3 my-2] text-[#ff22ee]  you come back to the css or if you want to make for each a that contains ul on hover to display it
+Paragraph 27: Took me a while as well to get use to Tailwind. Like you, I love to write my CSS in separate file because it's more organized to me. But you can actually use <a href="https://tailwindcss.com/docs/functions-and-directives#apply" rel="nofollow">@apply</a> in your CSS class, hence making it the HTML looks organized like you prefer while also writing less code using Tailwind.
+Paragraph 28: Here's example of how your CSS would look like:<br>
+Paragraph 29: This is very true and I thought about talking about this aspect but I really wanted to talk about even though regular Tailwind can add so much into the HTML element, it still seems to be more efficient.  I think for me one of the things I hate about a separate style sheet is coming up with class names lol.
+Paragraph 30: Using <code>@apply</code> with Tailwind is an anti-pattern to its mythology and discouraged by Tailwind. Adam himself has several Tweets on his Twitter where he advises against using it, pretty sure he regrets adding the feature to Tailwind meanwhile.
+Paragraph 31: … but then you may as well just use postcss?
+Paragraph 32: Your example is great and that's the only way in which I would chose to use tailwind, but the question becomes... Is it still useful to have a pre compiled list of utility classes, that you need to configure anyway to fit what you want... It becomes easier to write the mixins and classes yourself, to fit the use cases that you need... Tailwind syntax becomes really complicated if you want to do anything responsive that doesn't fit their very limited mobile-first strategy. Its also very difficult to build white label apps with tailwind due to its pre compiled nature. It's not difficult to define some css variables for spacings, breakpoints and colors and write a few utility classes of your own...
+Paragraph 33: What is benefit of Tailwind if you come back to writing your own classes and extending them and than even typing stuff like text-[#ff44dd]
+Paragraph 34: That's a strong point, but I don't really think that's the point of Tailwind.  I believe the point of Tailwind is to have a balance between the restrictiveness of some of the libraries and full customization.  Of course if you are specifically defining all of your CSS properties, then Tailwind doesn't make sense but if you only need to extend a few of them, then that's probably not that bad.
+Paragraph 35: Tailwind is just a solution to a problem that postcss/less/scss/sass had already solved. And a step back to the original issue with html/css builds 15 years ago when everyone was using classes such as “red” then deciding that they actually wanted the display colour to be blue
+Paragraph 36: Tailwind seems a nice concept, but in reality, having been a developer for many years, you’re just moving the problem of maintaining css to the html. Imagine, you need to redevelop your site. You already have a great html structure in place, so instead of just changing a selector in your css, you have to change that in 100+ html files, however, you’ve used that same padding tailwind class in multiple components, now you’re not just able to do a find and replace. You’ve also got a bit of tailwind in your database too, that needs to be changed. Suddenly changing a few values in your .vanilla selector seems much better.
+Paragraph 37: The benefit of not writing css, is just changed to the possibility of writing a lots of classes in html being able to scan and read large strings and managing those in multiple places…
+Paragraph 38: yeah, but in reality, the html is always coupled to the CSS. Have you ever just gone back and changed the CSS and nothing else? Its a myth.
+Paragraph 39: I dont know what you want to say
+Paragraph 40: :root {<br>
+--mds: 12px<br>
+}
+Paragraph 41: .vanilla {<br>
+  margin: var(--mds) 0px;<br>
+  padding: 0px var(--mds);<br>
+}
+Paragraph 42: if you use the same size or use it like calc(var(--mds) * 2) etc whenever you decide to change you just change it in root in tailwind you will need to go and do mx-6 py-6 and your html look amazing
+Paragraph 43: Or like I do it with tailwind in whole website I use for my background color on elements bg-indigo-600 hover:bg-indigo-700 when I want change need to go thrugh whole website and change it instead on single place
+Paragraph 44: Or if you using sass even better<br>
+$mds: 12px;
+Paragraph 45: .vanilla {<br>
+margin: $mds 0px;<br>
+padding: 0px $mds;<br>
+}
+Paragraph 46: If you drop tailwind for vanilla css, you just got rid of another dependency you have to maintain, track and migrate. Eg: Tailwind 4.0 just out! Please update all your perfectly stable projects to the latest version to prevent security issues and building up technical debt.
+Paragraph 47: Ah the great tailwind debate where everybody shits on it because "my elements have long class attributes now".<br>
+Thing is. 99.9% of modern sites use a component framework and it's the components that abstract this sort of stuff for you. Yes you might have a long list of classes applied to your button element, but then that is all encapsulated in a Button component.<br>
+Paragraph 48: vs<br>
+Paragraph 49: Good, modular components completely negate the tailwind verbosity argument...
+Paragraph 50: What is real benefit of tailwindcss?
+Paragraph 51: When I was using it, I'd say it was the speed at which you can develop. No need to futz around with class names or selectors or thinking about naming conventions. Everyone in the team is on the same page and you get the makings of a design system right out of the box. You also get the flexibility of a utility first framework so when you hit those edge cases where you just need to add a little padding or margin or whatever, it's very simple to do.
+Paragraph 52: Of course no one solution is perfect. I will agree with Tailwind's greatest criticism that it adds a lot of class bloat to HTML, but in my experience this is worth the tradeoff and is often a signal that you need to break your HTML down further into more manageable components.
+Paragraph 53: I think tailwind is nice for small and simple things, but once you need anything more and need to change config and use arbitrary values whole point of tailwind lose sense and become one ugly thing that is almost imposible to understand. Specially if you need any child or even more complex things with not child etc
+Paragraph 54: You can combine both. Use Vanilla CSS to create common "components" for example form elements or buttons and use tailwind for layout and to customize those components.
+Paragraph 55: ...and then you have a really huge project and the client wants to have buttons styled differently...
+Paragraph 56: I just think tailwind is overhyped and missleading to a lot of developers who never experience redesigning.
+Paragraph 57: if you’re exploring css libraries in general, take a look at Vanilla-Extract <a href="https://vanilla-extract.style/" rel="nofollow">vanilla-extract.style/</a>
+Paragraph 58: My gripe about Tailwind is just if your going to have to learn hundreds of classes you might as well just learn the raw CSS, at least its not a fad and will give you more power in the long run as you can do more with it. I'd just rather spend my time learning the fundamental web technology rather than groping around inside of someone elses ideas which are probbaly not going to relevant in 5 years.
+Paragraph 59: Its about what you spend your time on and fill your head with in the end.
+Paragraph 60: Built on <a class="c-link c-link--branded" target="_blank" rel="noopener" href="https://www.forem.com">Forem</a> — the <a target="_blank" rel="noopener" class="c-link c-link--branded" href="https://dev.to/t/opensource">open source</a> software that powers <a target="_blank" rel="noopener" class="c-link c-link--branded" href="https://dev.to">DEV</a> and other inclusive communities.
+Paragraph 61: Made with love and <a target="_blank" rel="noopener" class="c-link c-link--branded" href="https://dev.to/t/rails">Ruby on Rails</a>. DEV Community <span title="copyright">&copy;</span> 2016 - 2024.
