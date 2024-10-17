@@ -11,7 +11,7 @@ import (
 
 func main() {
   // URL to scrape
-  url := "https://https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl"
+  url := "https://dev.to/beaucoburn/should-i-choose-tailwind-or-vanilla-css-ccl"
 
   // Make HTTP GET request
   response, err := http.Get(url)
